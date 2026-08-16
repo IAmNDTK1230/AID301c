@@ -1,0 +1,1 @@
+{"best_model":"random_forest","models":{"baseline_mean":{"mae":874.50796356,"rmse":1282.1196223},"linear_regression":{"mae":279.3048747,"rmse":329.0223462},"random_forest":{"mae":235.1159635,"rmse":289.5520248},"gradient_boosting":{"mae":240.5971849,"rmse":295.8918346}},"train_rows":2000,"test_rows":500}
